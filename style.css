@@ -40,3 +40,7 @@ button {
 button img {
     margin-right: 8px;
 }
+
+.no-bdr {
+    border: none;
+}
