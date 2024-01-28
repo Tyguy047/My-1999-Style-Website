@@ -49,3 +49,11 @@ button img {
 td {
     margin-right: 60px;
 }
+
+figcaption {
+    font-family: fantasy;
+}
+
+.buy-button {
+    background-color: #b27600;
+}
